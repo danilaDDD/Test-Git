@@ -1,4 +1,7 @@
 # Инструкция по работе с git
+
+Den bratka!!
+
 ![Официальный логотип git](logo.png)
 
 ## Lesson 1
