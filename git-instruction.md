@@ -58,3 +58,12 @@ branch
 git branch name - создание ветки
 Github
 
+## The instructions for working with github
+
+1. Created a Github account
+2. Created a local repository
+3. Log in Github
+4. Send (push) a local repository to github
+5. Make changes from another PC
+6. Download (pull) changes from a remote repository
+
