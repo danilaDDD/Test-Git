@@ -1,3 +1,4 @@
+## For the completion of 3 workshops
 # Инструкция по работе с git
 ![Официальный логотип git](logo.png)
 
