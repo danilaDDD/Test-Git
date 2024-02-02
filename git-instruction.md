@@ -67,3 +67,4 @@ Github
 5. Make changes from another PC
 6. Download (pull) changes from a remote repository
 
+it's worked!
