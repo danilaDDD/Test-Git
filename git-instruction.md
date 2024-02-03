@@ -82,3 +82,25 @@ Github
 4. Производим все изменения только в этой ветке
 5. Отправляем эти изменения на свой аккаунт (push)
 6. В окне на GitHub появляется возможность отправить pull request
+
+
+### Список команд для работы с удаленным репозиторием 
+**Создать новый репозиторий**
+
+* echo "# NAME" >> README.md
+* git init
+* git add README.md
+* git commit -m "first commit"
+* git branch -M main (or master)
+* git remote add origin https://github.com/LOGIN/NAME.git
+* git push -u origin main (or master)
+
+**Отправить существующий репозиторий из командной строки**
+
+* git remote add origin https://github.com/LOGIN/NAME.git
+* git branch -M main (or master)
+* git push -u origin main (or master)
+
+**Также можно скопировать чей-либо репозиторий**
+
+*См. как работать с кем-то в проекте*
