@@ -189,4 +189,4 @@ commit 6d171de84b290943aac310cd3025a80d3f9d61de -- это хеш уникаль�
 **Добавление** 
 * __git remote add origin https://github.com/LOGIN/NAME__
 * __git branch -M main__
-* __git push -u origin main__
+* __git push -u origin master__ -- чтобы отправить на удаленный репозиторий
