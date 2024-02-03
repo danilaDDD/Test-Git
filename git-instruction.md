@@ -58,3 +58,10 @@ branch
 git branch name - создание ветки
 Github
 
+## Lesson 3
+
+git clone <ссылка на гит> - копирует репозиторий на локальную машину
+git push - залить изменения на github
+git pull - забрать актуальную версию репозитория из github
+
+
