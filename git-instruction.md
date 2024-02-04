@@ -51,10 +51,17 @@
 *git log*
 
 git status - команда, вывод состояния репозитория
+
 git init - иницыализация git
+
 ## Lesson 2
+
 git branch - выводит ветки
+
 branch
+
 git branch name - создание ветки
+
 Github
+
 
