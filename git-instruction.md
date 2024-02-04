@@ -3,7 +3,7 @@
 
 ## Lesson 1
 
-lorem ipsum dolor
+lorem ipsum dolor sit
 
 ## Что такое git и контроль версий
 **Системы контроль версий** - это системы, которые: 
