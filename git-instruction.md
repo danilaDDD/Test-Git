@@ -58,3 +58,13 @@ branch
 git branch name - создание ветки
 Github
 
+## Lesson 3
+### Github instructions:
+* Git remote add origin _repository url_ - is used in Git to set up a connection to a remote repository
+* Git branch -M master - is used to rename the current branch in Git, -M: This option indicates that you want to move or rename an existing branch
+* Git push -u origin master - pushes the local changes from the "master" branch to the remote repository named "origin" and sets up tracking for future push and pull operations
+* Git pull - transfer the changes commited on github
+* Git clone - is used to create a local copy of a remote Git repository. 
+* **Fork** - refers to the action of creating a personal copy of someone else's project or repository
+* A **Pull request** - is a way of proposing changes to a codebase in a version control system.
+
