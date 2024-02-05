@@ -24,5 +24,6 @@
 git remote add origin https://github.com/...
 git pull
 git push
+git clone https://fogkenro
 
 ![](https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/01/asset_upload_file97293_255583.jpg)
