@@ -1,4 +1,7 @@
 # Инструкция по работе с git
+
+Asante kwa ufikiaji wako. -Спасибо за доступ-
+
 ![Официальный логотип git](logo.png)
 
 ## Lesson 1
