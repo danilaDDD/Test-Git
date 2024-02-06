@@ -1,3 +1,7 @@
+Git-Fork from github
+
+Fork for lesson
+
 # Инструкция по работе с git
 ![Официальный логотип git](logo.png)
 
