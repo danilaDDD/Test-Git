@@ -56,5 +56,14 @@ git init - иницыализация git
 git branch - выводит ветки
 branch
 git branch name - создание ветки
-Github
 
+
+
+
+
+
+git push
+git pull 
+git clone
+fork
+Github-zadanie 3
