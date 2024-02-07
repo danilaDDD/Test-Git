@@ -58,3 +58,13 @@ branch
 git branch name - создание ветки
 Github
 
+## Работа с удаленными репозиториями
+* git clone https://... - копирование репозитория из GitHub
+
+* добавление существующего локального репозитория на GitHub :
+1. git remote add origin https://...
+2. git branch -M main(master)
+3. git push -u origin main(master)
+
+* git push - передача изменений на GitHub
+* git pull - загрузка последней актуальной версии с GitHub (происходит merge с локальным репозиторием)
