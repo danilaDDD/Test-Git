@@ -58,3 +58,13 @@ branch
 git branch name - создание ветки
 Github
 
+## Homework
+
+git remote add origin {*ссылка на репозиторий*} - связать VScode с Github
+
+git branch -M {*название главной ветки в VScode*} - добавить в репозиторий главную ветку из VScode
+
+git push -u origin {*название присоеденяемой ветки*} - связать главную ветку VScode с главной веткой репозитория Github
+
+git pull - передать изменения из VScode на репозиторий Github
+
