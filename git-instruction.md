@@ -1,6 +1,8 @@
 # Инструкция по работе с git
 ![Официальный логотип git](logo.png)
 
+Ivan create chenges
+
 ## Lesson 1
 
 ## Что такое git и контроль версий
