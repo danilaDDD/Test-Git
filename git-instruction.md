@@ -62,3 +62,5 @@ Github
 
 ## Альтернативные системы контроля версий
 
+[Альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
+
