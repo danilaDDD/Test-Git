@@ -98,3 +98,13 @@ Github
 
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
+
+# Lesson 3
+
+* **git reguest** - предложение изменения кода в чужом репозитории
+
+* **git remote add origin** - добавить удаленный репозиторий
+
+* **git push** - отправить изменения на сервер
+
+* **git pull** - извлечение и загрузка с удаленного репозитория
