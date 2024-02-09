@@ -1,3 +1,8 @@
+New pull request for homework
+
+Git-Fork from github
+
+
 # Инструкция по работе с git
 ![Официальный логотип git](logo.png)
 
