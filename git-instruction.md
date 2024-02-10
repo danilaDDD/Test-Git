@@ -1,6 +1,9 @@
 # Инструкция по работе с git
 ![Официальный логотип git](logo.png)
 
+Hi, this is my Pull request
+
+
 ## Lesson 1
 
 ## Что такое git и контроль версий
