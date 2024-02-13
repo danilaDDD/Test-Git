@@ -98,3 +98,4 @@ Github
 
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
+Файл с удаленными репозиториями 
