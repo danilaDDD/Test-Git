@@ -98,3 +98,6 @@ Github
 
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
+**git push** - для выгрузки локального депозитория в gitHub
+
+**git puul** - для загрузки депозитория из gitHub в локальный
