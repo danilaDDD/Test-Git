@@ -1,4 +1,5 @@
 # Инструкция по работе с git
+Сайидхужа
 ![Официальный логотип git](logo.png)
 
 ## Lesson 1
@@ -98,3 +99,4 @@ Github
 
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
+#  Это репозиторий другого
