@@ -123,3 +123,11 @@ git log --oneline --graph  -  сокращенный граф
 [сохранение изменений][https://www.atlassian.com/ru/git/tutorials/saving-changes]
  [проверка репозитория][https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository]
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
+
+Работа с удаленным репозиторием
+git push - отправить в удаленный репозиторий  
+git push -u origin master - отправить в удаленный репозиторий ветку мастер      
+git pull -  получить из удаленного репозитория 
+git remote - список настроенных репозиториев   
+
+[работа с удаленными репозиториями][https://git-scm.com/book/ru/v2/Основы-Git-Работа-с-удалёнными-репозиториями]
