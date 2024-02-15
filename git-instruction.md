@@ -59,7 +59,12 @@ branch
 git branch name - создание ветки
 Github
 
-Данила
+git branch -d branch имя ветви - удалить ветвь с именем.  
+git branch -b имя ветви  - создать ветвь и перейти на нее.    
+git merge branch имя ветви - слияние ветви с основной.  
+git log --graph  - вывод журнала изменений с графом. 
+git log --oneline --graph  -  сокращенный граф   
+
 
 ## Альтернативные системы контроля версий:
 
@@ -96,5 +101,33 @@ Github
 2. Требуется специальный формат данных, а это означает, что инструмент теряет в гибкости и зависим в отношении текущих форматов.
 Основная задача инструмента — действовать в качестве скорее уровня абстракции данных, а это может быть не тем, что нужно вашей команде, и также может игнорировать разработчиков, которым нужно решение легче.
 
+
+
+
+* # **Markdown**    
+*Курсив*  * *  или _Курсив_ _ _  
+**Полужирный**  ** ** или __Полужирный__ ___    
+~~Зачеркнутый~~ ~~           
+Заголовок #  перед текстом  
+Заголовок меньшим текстом ##    
+Список *  перед текстом     
+Нумерованный список 1.  перед текстом   
+
+Ссылки 
+
+[пояснение][адрес http]     
+[Markdoun] [https://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/?upm_export=print#link11]   
+[Git][https://habr.com/ru/articles/541258/]
+
+[настройка репозитория][https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository]  
+[сохранение изменений][https://www.atlassian.com/ru/git/tutorials/saving-changes]
+ [проверка репозитория][https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository]
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
+Работа с удаленным репозиторием
+git push - отправить в удаленный репозиторий  
+git push -u origin master - отправить в удаленный репозиторий ветку мастер      
+git pull -  получить из удаленного репозитория 
+git remote - список настроенных репозиториев   
+
+[работа с удаленными репозиториями][https://git-scm.com/book/ru/v2/Основы-Git-Работа-с-удалёнными-репозиториями]
