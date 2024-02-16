@@ -98,3 +98,8 @@ Github
 
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
+### Creating remote repositories
+
+Вы можете использовать команду git Remote Add, чтобы сопоставить удаленный URL-адрес с именем. Например, вы должны ввести следующее в командной строке:
+
+git remote add origin <REMOTE_URL>
