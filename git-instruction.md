@@ -1,3 +1,8 @@
+
+
+EVERYTHIG IS AMAISING, NOTHING TO COMMIT, NOTHING TO ADD!!! BRAVO!!!
+
+
 # Инструкция по работе с git
 ![Официальный логотип git](logo.png)
 
