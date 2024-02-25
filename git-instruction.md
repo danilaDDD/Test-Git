@@ -2,6 +2,7 @@
 ![Официальный логотип git](logo.png)
 
 Добавка от MrHerhard
+MrHerhard's change
 
 ## Lesson 1
 
