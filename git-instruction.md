@@ -1,6 +1,9 @@
 # Инструкция по работе с git
 ![Официальный логотип git](logo.png)
 
+Добавка от MrHerhard
+MrHerhard's change
+
 ## Lesson 1
 
 ## Что такое git и контроль версий
