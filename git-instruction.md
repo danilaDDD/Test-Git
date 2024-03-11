@@ -98,3 +98,10 @@ Github
 
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
+# Кртакая история появления git
+
+## Интересные факты
+
+Проект был создан *Линусом Торвальдсом* для управления разработкой ядра *Linux*. Первая версия выпущена *7 апреля 2005 года*.
+Среди проектов, использующих Git, — ядро *Linux*, *Swift*, *Android*, *Drupal*, *Cairo*, *GNU Core Utilities*, *Mesa*, *Wine*, *Chromium*, *Compiz Fusion*, *FlightGear*, *jQuery*, *PHP*, *NASM*, *MediaWiki*, *DokuWiki*, *Qt*, ряд дистрибутивов Linux.
+Программа является свободной и выпущена под лицензией *GNU GPL версии 2*.
