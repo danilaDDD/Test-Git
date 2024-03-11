@@ -98,7 +98,7 @@ Github
 
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
-# Кртакая история появления git
+# Краткая история появления git
 
 ## Интересные факты
 
